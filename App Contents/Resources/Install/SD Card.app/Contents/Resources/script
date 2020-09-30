@@ -1,0 +1,5 @@
+#!/bin/sh
+# SD Card Copyright (c) 2020 chris1111 All Rights reserved.
+apptitle="SD Card"
+version="1.0"
+osascript ./Scripts/main.scpt
